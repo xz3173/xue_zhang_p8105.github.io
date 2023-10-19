@@ -27,7 +27,6 @@ This is a [link](https://google.com) to a good data science tool.
 
 This is a [link](https://p8105.com/) to p8105.
 
-Here's a link to the [about](about.html) page.
 
 
 You can also still use R!
@@ -57,7 +56,8 @@ My cat is ted. this is ted:
 
 
 
-Here's another cat:
+Also here's the "backstage" are in Alumni Auditorium:
+(anoother cat image)
 
 ![](images/cat_2.jpg)
 
