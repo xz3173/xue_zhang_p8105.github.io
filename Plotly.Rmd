@@ -56,3 +56,4 @@ nyc_airbnb |>
   plot_ly(x = ~neighbourhood, y = ~n, color = ~neighbourhood, type = "bar", colors = "viridis")
 ```
 
+
